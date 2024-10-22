@@ -13,8 +13,8 @@ global.botNumberCode = "" //Ejemplo: +59309090909
 global.phoneNumber = ""
 
  global.owner = [ 
- ["584125778026", "Owner", true], 
- ["5492266613038"],
+ ["94742817784", "Owner", true], 
+ ["94702722766"],
  ["5217779091180"],
  ["50375961083"],
  ["50246028932"]
@@ -51,7 +51,7 @@ global.query = imagen1
  global.noperfil = fs.readFileSync('./media/sinfoto.jpg') 
  global.md = 'https://github.com/DIEGO-OFC' 
  global.yt = 'https://www.youtube.com/@diegogameplays82' 
- global.nn = 'https://chat.whatsapp.com/KlqNmoUcVnsGJxIfATIDrK' //Update  
+ global.nn = 'https://chat.whatsapp.com/BdxXl16otm93ynPycnvbDp' //Update  
  global.nnn = 'https://chat.whatsapp.com/JuuuUaIQnnE3t4SWQenShg' 
  global.nna2 = 'https://chat.whatsapp.com/JuuuUaIQnnE3t4SWQenShg' 
  const ctxd = [ 
